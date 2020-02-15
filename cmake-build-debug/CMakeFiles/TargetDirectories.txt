@@ -1,0 +1,3 @@
+/Users/Lucja/Desktop/c++/clion/tablice_dynamiczne/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Lucja/Desktop/c++/clion/tablice_dynamiczne/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Lucja/Desktop/c++/clion/tablice_dynamiczne/cmake-build-debug/CMakeFiles/tablice_dynamiczne.dir
